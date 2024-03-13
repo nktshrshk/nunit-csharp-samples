@@ -23,4 +23,9 @@ public class LibraryManager : ILibraryManager
     {
         // TODO step 1.
     }
+
+    public Book SearchBook()
+    {
+
+    }
 }
